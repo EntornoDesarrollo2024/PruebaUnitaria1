@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b06b4981-d216-461c-8b0a-443ac2c3d175" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaUnitaria1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CalculadoraTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b06b4981-d216-461c-8b0a-443ac2c3d175" name="Changes" comment="finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +44,8 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -111,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729793995400</updated>
     </task>
+    <task id="LOCAL-00001" summary="finalizado">
+      <option name="closed" value="true" />
+      <created>1730403872611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730403872611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizado" />
   </component>
 </project>
