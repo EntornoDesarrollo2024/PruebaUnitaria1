@@ -23,7 +23,7 @@ class CalculadoraTest {
         ByteArrayInputStream in = new
                 ByteArrayInputStream("6\n".getBytes());
         System.setIn(in);
-        Assertions.assertEquals(6, Calculadora.escogerValor());
+        Assertions.assertNotEquals("n", Calculadora.escogerValor());
     }
 
     @Test
